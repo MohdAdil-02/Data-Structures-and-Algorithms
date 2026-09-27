@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/MohdAdil-02/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/MohdAdil-02/Data-Structures-and-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -44,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MohdAdil-02/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MohdAdil-02/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MohdAdil-02/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MohdAdil-02/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
